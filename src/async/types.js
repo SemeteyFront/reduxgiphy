@@ -1,0 +1,4 @@
+export const ADD_TRAND = 'ADD_TRAND';
+export const ADD_RANDOM = 'ADD_RANDOM';
+export const ADD_CATEGORIES = 'ADD_CATEGORIES';
+export const ADD_SUBCATEGORIES = 'ADD_SUBCATEGORIES';

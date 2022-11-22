@@ -1,0 +1,17 @@
+.trand {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 20px;
+  background-color: #c8dbbe;
+}
+
+.trand__img {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+.trand__loading {
+  justify-self: center;
+}

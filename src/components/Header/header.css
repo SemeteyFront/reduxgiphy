@@ -1,0 +1,48 @@
+.header {
+  padding: 44px 0;
+  display: flex;
+  background-color: #1b1f1d;
+}
+
+.header__link {
+  text-decoration: none;
+  color: beige;
+}
+
+.header__logo {
+  display: flex;
+  margin-right: 300px;
+}
+
+.header__title {
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+}
+
+.nav__list {
+  display: flex;
+  column-gap: 63px;
+  flex: 1 1 auto;
+}
+
+.list-name {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.list-name__link {
+  text-decoration: none;
+  color: white;
+  transition: opacity 1s ease-in-out;
+  transition: color 1s ease-in-out;
+}
+
+.list-name__link:hover {
+  opacity: 1.7;
+  color: #89b8be;
+}
+
+.active {
+  color: #f49d1a;
+}

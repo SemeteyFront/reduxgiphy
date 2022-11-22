@@ -1,0 +1,5 @@
+.router {
+  display: flex;
+  justify-content: start;
+  column-gap: 10px;
+}
